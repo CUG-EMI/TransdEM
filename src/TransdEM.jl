@@ -3,7 +3,8 @@
 # A framework for transdimensional Bayesian inversion of electromagnetic data
 # in stratified media
 #
-# (c) Ronghua Peng and Bo Han, China University of Geosciences, Wuhan, 2020-2022.
+# (c) Ronghua Peng, Bo Han, Yajun Liu and Xiangyun Hu, 
+#     China University of Geosciences, Wuhan, 2020-2022.
 #
 #-------------------------------------------------------------------------------
 VERSION == v"1.0.0"
