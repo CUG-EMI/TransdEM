@@ -3,6 +3,7 @@
 # module `TBStruct` defines data structure and routines for transdimensional
 # MCMC sampling.
 #
+# (c) Ronghua Peng and Bo Han, China University of Geosciences, Wuhan, 2020-2022.
 #
 #-------------------------------------------------------------------------------
 module TBStruct

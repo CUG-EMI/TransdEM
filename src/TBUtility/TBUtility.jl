@@ -3,6 +3,8 @@
 # module `TBUtility` defines utility routines for transdimensional Bayesian
 # inversion.
 #
+# (c) Ronghua Peng and Bo Han, China University of Geosciences, Wuhan, 2020-2022.
+#
 #-------------------------------------------------------------------------------
 module TBUtility
 

@@ -3,6 +3,7 @@
 # module `TBAnalysis` defines routines to perform posterior analysis of model
 # parameters.
 #
+# (c) Ronghua Peng and Bo Han, China University of Geosciences, Wuhan, 2020-2022.
 #
 #-------------------------------------------------------------------------------
 module TBAnalysis

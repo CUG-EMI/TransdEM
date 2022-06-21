@@ -2,7 +2,7 @@
 #
 # module `TBFwdSolver` defines routines to perform forward modeling.
 #
-#
+# (c) Ronghua Peng and Bo Han, China University of Geosciences, Wuhan, 2020-2022.
 #
 #-------------------------------------------------------------------------------
 module TBFwdSolver

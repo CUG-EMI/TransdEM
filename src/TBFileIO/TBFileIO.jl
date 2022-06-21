@@ -2,6 +2,7 @@
 #
 # module `TBFileIO` defines routines for prior information and EM data IO.
 #
+# (c) Ronghua Peng and Bo Han, China University of Geosciences, Wuhan, 2020-2022.
 #
 #-------------------------------------------------------------------------------
 module TBFileIO
