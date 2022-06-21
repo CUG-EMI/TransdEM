@@ -3,7 +3,7 @@
 **TransdEM** is a package for transdimensional Bayesian inversion of electromagnetic data in layered media written in the [Julia language](http://julialang.org).
 
 For the details regarding the algorithm and implementation, please refer to: 
-> Peng, R., B. Han, Y. Liuand X. Hu, 2022, A Julia software package for transdimensional Bayesian inversion of
+> Peng, R., B. Han, Y. Liu and X. Hu, 2022, A Julia software package for transdimensional Bayesian inversion of
 electromagnetic data over horizontally stratified media: Geophysics, 87(5), F29-F40; DOI:
 > [10.1190/GEO2021-0534.1](https://library.seg.org/doi/10.1190/geo2021-0534.1).
 
