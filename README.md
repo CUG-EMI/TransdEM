@@ -4,7 +4,7 @@
 
 For the details regarding the algorithm and implementation, please refer to: 
 > Peng, R., B. Han, Y. Liu and X. Hu, 2022, A Julia software package for transdimensional Bayesian inversion of
-electromagnetic data over horizontally stratified media: Geophysics, 87(5), F29-F40; DOI:
+electromagnetic data over horizontally stratified media: Geophysics, 87(5); DOI:
 > [10.1190/GEO2021-0534.1](https://library.seg.org/doi/10.1190/geo2021-0534.1).
 
 *  Authors: [Ronghua Peng](https://github.com/prhjiajie), [Bo Han](https://github.com/hanbo1735), [Yajun Liu](https://github.com/liuyajun7112) and Xiangyun Hu (China University of Geosciences (Wuhan)).
