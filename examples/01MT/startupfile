@@ -1,0 +1,10 @@
+surveytype:      mt
+datafile:        mt1data.dat 
+burninsamples:   100000
+totalsamples:    500000
+numberoflayer:   2    30
+minthickness(m): 100
+zcoordinate(m):  1.0  50000.0 0.05
+resistivity:     0.1 1e4 0.05
+numberofbins:    300 400
+credinterval:    0.9

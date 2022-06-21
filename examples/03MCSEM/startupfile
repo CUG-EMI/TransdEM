@@ -1,0 +1,9 @@
+surveytype:      csem
+datafile:        csem1data.dat 
+burninsamples:    400000
+totalsamples:    1000000
+numberoflayer:   2    30
+zcoordinate(m):  1.0  4000.0 0.05
+resistivity:     0.1 1e3 0.05
+numberofbins:    300 400
+credinterval:    0.9

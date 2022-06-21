@@ -1,0 +1,6 @@
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+BinDeps = "9e28174c-4ba2-5203-b857-d8d62c4213ee"
+DistributedArrays = "aaf54ef3-cdf8-58ed-94cc-d582ad619b94"
+Primes = "27ebfcd6-29c5-5fa9-bf4b-fb8fc14df3ae"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
